@@ -3,6 +3,6 @@
 <div id='menu'>
 <ul>
   <li><a href="load.php">Load Test</a></li>
-  <li><a href="rds.php">RDS</a></li>
+  <li><a href="rds.php">Address Book</a></li>
 </ul>
 </div>
